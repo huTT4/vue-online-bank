@@ -1,8 +1,12 @@
 # vue-practice-app
 
+<h1>https://vue-online-bank-4.web.app/</h1>
+
 ## Project setup
 ```
 npm install
+or
+npm install --legacy-peer-deps
 ```
 
 ### Compiles and hot-reloads for development
